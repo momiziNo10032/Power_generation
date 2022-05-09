@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 70a75d577f114be45b240acb75bf2fbe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Letters Laughing
+  fontNames:
+  - Letters Laughing
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f8abaf0e2e0d664585db67bb3422fb3, type: 3}
+  - {fileID: 12800000, guid: 2299b008b4c7d084d85773734090cb20, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
